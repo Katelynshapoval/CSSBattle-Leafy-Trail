@@ -1,0 +1,16 @@
+body {
+    background-color: #0B2429;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+   div {
+    position:absolute;
+    left:175px;
+    width: 150px;
+    height: 150px;
+    background: #F3AC3C;
+    border-radius:67% 0% 67% 0%;
+    box-shadow:-50px 0 0 0 #998235,
+               -100px 0 0 0 #1A4341;
+  }
